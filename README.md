@@ -64,6 +64,6 @@ O trabalho contou com diversos colaboradores, o principal deles foi o Professor 
  
 Experiente profissional da Computaria e grande produtor de cuscuz
  
- [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim)
+ [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Gabriel Martins Sousa</sub>](https://github.com/crovim)
  
  Exímia computeira e adepta do Coquettismo, além de pianista e sulista
