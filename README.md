@@ -6,17 +6,17 @@ Programa usado para tratar dados climáticos de um banco de dados coletados e ge
 
 - [Introdução](#Introdução)
   
-- [Recursos Utilizados](#Recursos_Utilizados)
+- [Recursos Utilizados](#Recursos-Utilizados)
 
-- [Como Funciona](#Como_Funciona)
+- [Como Funciona](#Como-funciona)
 
 - [Aplicações](#aplicações)
 
-- [Acesso ao Projeto](#acesso_ao_projeto)
+- [Acesso ao Projeto](#acesso-ao-projeto)
 
 - [Abrir e Rodar o Projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Desenvolvedores e colaboradores](#desenvolvedores-e-colaboradores)
 
 ## Introdução 
 
