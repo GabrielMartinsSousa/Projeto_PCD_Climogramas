@@ -72,3 +72,7 @@ Exímia computeira e adepta do Coquettismo, além de pianista e sulista
  
  Extraordinário servidor de café e jogador de xadrez de 4
 
+  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Manuel de Atlântida</sub>](https://github.com/crovim)
+
+  Maior expoente de Santa Maria e calvo em transição
+
