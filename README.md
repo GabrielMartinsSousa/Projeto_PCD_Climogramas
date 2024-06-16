@@ -55,10 +55,15 @@ O projeto Data Céu está disponível no GitHub, e pode ser baixado a qualquer m
 <p align="justify">
 O programa deve ser aberto em uma plataforma de compilação e rodagem de Python e abrir o código nesse software. Além disso, é necessário baixar os dados de 2023. Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código. E "Voilá", rapidamente você obtem os gráficos desejados.
 
-## Desenvolvedores e colaboradores
+## Desenvolvedores e Colaboradores
 
 <p align="justify">
 O trabalho contou com diversos colaboradores, o principal deles foi o Professor Doutor Leandro Nascimento Lemos, que guiou e avaliou o projeto, além dele, o estagiário Duanny Silva Onório foi de grande ajuda em dúvidas e problemas na produção do código. A seguir, os perfis dos belíssimos computeiros que desenvolveram este projeto.
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |
-[<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim)  |
+ [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
+ 
+Experiente profissional da Computaria e grande produtor de cuscuz
+ 
+ [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim)
+ 
+ Exímia computeira e adepta do Coquettismo, além de pianista e sulista
