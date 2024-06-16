@@ -60,10 +60,14 @@ O programa deve ser aberto em uma plataforma de compilação e rodagem de Python
 <p align="justify">
 O trabalho contou com diversos colaboradores, o principal deles foi o Professor Doutor Leandro Nascimento Lemos, que guiou e avaliou o projeto, além dele, o estagiário Duanny Silva Onório foi de grande ajuda em dúvidas e problemas na produção do código. A seguir, os perfis dos belíssimos computeiros que desenvolveram este projeto.
 
- [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
+ [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rachel Bachels do Balacubaco</sub>](https://github.com/camilafernanda) 
  
-Experiente profissional da Computaria e grande produtor de cuscuz
+Exímia computeira e adepta do Coquettismo, além de pianista e sulista
+
+ [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/crovim)
  
- [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Gabriel Martins Sousa</sub>](https://github.com/crovim)
+ Experiente profissional da Computaria e grande produtor de cuscuz
  
- Exímia computeira e adepta do Coquettismo, além de pianista e sulista
+ [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/GabrielMartinsSousa)
+ 
+ Extraordinário servidor de café e jogador de xadrez de 4
