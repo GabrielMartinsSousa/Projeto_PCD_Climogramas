@@ -8,7 +8,7 @@ Programa usado para tratar dados climáticos de um banco de dados coletados e ge
   
 - [Recursos Utilizados](#Recursos_Utilizados)
 
-- [Como Funciona](#Como_funciona)
+- [Como Funciona](#Como_Funciona)
 
 - [Aplicações](#aplicações)
 
