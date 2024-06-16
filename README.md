@@ -68,6 +68,8 @@ Exímia computeira e adepta do Coquettismo, além de pianista e sulista
  
  Experiente profissional da Computaria e grande produtor de cuscuz
  
- [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/GabrielMartinsSousa)
+ [<img src=" https://avatars.githubusercontent.com/u/172425313?s=400&u=cf228884beb848bdb0a0676fc184c9131fec32bd&v=4
+" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/GabrielMartinsSousa)
  
  Extraordinário servidor de café e jogador de xadrez de 4
+
