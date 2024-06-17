@@ -53,7 +53,11 @@ O projeto Data Céu está disponível no GitHub, e pode ser baixado a qualquer m
 ## Abrir e rodar o projeto
 
 <p align="justify">
-O programa deve ser aberto em uma plataforma de compilação e rodagem de Python. Além disso, é necessário baixar os dados metereológicos de 2023 no site do INMET, o que pode ser feito na seção "Dados Metereológicos". Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código. E "Voilá", rapidamente você obtêm os gráficos desejados.
+
+- O programa deve ser aberto em uma plataforma de compilação e rodagem de Python. 
+- Além disso, é necessário baixar os dados metereológicos de 2023 no site do INMET, o que pode ser feito na seção "Dados Metereológicos".
+- Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código.
+- E "Voilá", rapidamente você obtêm os gráficos desejados.
 
 ## Desenvolvedores e Colaboradores
 
