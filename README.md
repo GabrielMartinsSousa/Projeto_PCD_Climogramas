@@ -1,7 +1,7 @@
 
 <img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/4fb6f893-5c7e-4d5c-a425-e912be84a982" alt="Texto Alternativo" width="800">
 
-Programa usado para tratar dados climáticos de um banco de dados coletados e gerar modelos gráficos para análise
+Programa usado para tratar dados climáticos de um banco de dados e gerar modelos gráficos para análise
 ### Índice 
 
 - [Introdução](#Introdução)
@@ -43,7 +43,7 @@ O usuário do Data Céu seleciona a cidade da qual deseja os dados, as variávei
 ## Aplicações
 
 <p align="justify">
-Os modelos gráficos fornecidos com o Data Céu são extremamente úteis para uma análise dos eventos climáticos e como se preparar caso haja uma tendência de alta ou baixa temperatura, ou até alto índice de pluviosidade e intensidade dos ventos
+Os modelos gráficos fornecidos com o Data Céu são extremamente úteis para a análise dos eventos climáticos e como se preparar caso haja uma tendência de alta ou baixa temperatura, ou até alto índice de pluviosidade e intensidade dos ventos
 
 ## Acesso ao Projeto
 
@@ -53,14 +53,14 @@ O projeto Data Céu está disponível no GitHub, e pode ser baixado a qualquer m
 ## Abrir e rodar o projeto
 
 <p align="justify">
-O programa deve ser aberto em uma plataforma de compilação e rodagem de Python e abrir o código nesse software. Além disso, é necessário baixar os dados de 2023. Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código. E "Voilá", rapidamente você obtem os gráficos desejados.
+O programa deve ser aberto em uma plataforma de compilação e rodagem de Python. Além disso, é necessário baixar os dados metereológicos de 2023 no site do INMET, o que pode ser feito na seção "Dados Metereológicos". Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código. E "Voilá", rapidamente você obtêm os gráficos desejados.
 
 ## Desenvolvedores e Colaboradores
 
 <p align="justify">
 O trabalho contou com diversos colaboradores, o principal deles foi o Professor Doutor Leandro Nascimento Lemos, que guiou e avaliou o projeto, além dele, o estagiário Duanny Silva Onório foi de grande ajuda em dúvidas e problemas na produção do código. A seguir, os perfis dos belíssimos computeiros que desenvolveram este projeto.
 
- [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rachel Bachels do Balacubaco</sub>](https://github.com/camilafernanda) 
+ [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rachels Bachels do Balacubaco</sub>](https://github.com/camilafernanda) 
  
 Exímia computeira e adepta do Coquettismo, além de pianista e sulista
 
