@@ -19,10 +19,10 @@ Programa usado para tratar dados climáticos de um banco de dados e gerar modelo
 
 ## Introdução 
 
-<p align="justify">
- Este é um projeto em ciência de dados para disciplina Prática em Ciência de Dados do curso de Bacharelado em Ciência e Tecnologia da [Ilum Escola de Ciência](https://ilum.cnpem.br/). Devido aos recentes acontecimentos climáticos, tanto no Brasil quanto no exterior, nós, alunos da Ilum, decidimos criar um programa que permite analisar dados meteorológicos de diversas cidades do Brasil e gerar gráficos de diferentes tipos dependendo dos parâmetros analisados, como temperatura, pluviosidade, incidência de radiação solar, pressão atmosférica, umidade relativa do ar e direção e intensidade do vento. A partir desses dados, é possível observar os padrões e tentar prever como o clima se comportará
 
-Os dados foram obtidos no site do Instituto Nacional de Metereologia, são correspondentes ao ano de 2023 e apresentam dados de 567 estações metereológicas em cidades ao longo do Brasil. O download dos dados é feito no site do INMET no formato de uma planilha do Excel. 
+ Este é um projeto em ciência de dados para disciplina Prática em Ciência de Dados do curso de Bacharelado em Ciência e Tecnologia da [Ilum Escola de Ciência](https://ilum.cnpem.br). Devido aos recentes acontecimentos climáticos, tanto no Brasil quanto no exterior, nós, alunos da Ilum, decidimos criar um programa que permite analisar dados meteorológicos de diversas cidades do Brasil e gerar gráficos de diferentes tipos dependendo dos parâmetros analisados, como temperatura, pluviosidade, incidência de radiação solar, umidade relativa do ar e direção e intensidade do vento. A partir desses dados, é possível observar os padrões e tentar prever como o clima se comportará
+
+Os dados foram obtidos no site do Instituto Nacional de Metereologia, são correspondentes ao ano de 2023 e apresentam dados de 567 estações metereológicas em cidades ao longo do Brasil. O download dos dados é feito no [site do INMET](https://portal.inmet.gov.br/) no formato de uma planilha do Excel. 
 
 ![Esquema Chuva de Dados](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/54fc6137-ba47-4637-99fb-683d5ebdd118)
 
@@ -38,7 +38,7 @@ Os dados foram obtidos no site do Instituto Nacional de Metereologia, são corre
 ## Como funciona
 
 <p align="justify">
-O usuário do Data Céu seleciona a cidade da qual deseja os dados, as variáveis e o período que quer avaliar, o programa retira os dados do banco de dados e retorna ao usuário os gráficos que melhor apresentam os dados solicitados
+O usuário do Chuva de Dados seleciona a cidade da qual deseja os dados, as variáveis e o período que quer avaliar, o programa retira os dados do banco de dados e retorna ao usuário os gráficos que melhor apresentam os dados solicitados
 
 ## Aplicações
 
@@ -47,8 +47,7 @@ Os modelos gráficos fornecidos com o Data Céu são extremamente úteis para a 
 
 ## Acesso ao Projeto
 
-<p align="justify">
-O projeto Data Céu está disponível no GitHub, e pode ser baixado a qualquer momento
+O projeto Chuva de Dados está disponível no GitHub, e pode ser [baixado aqui](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas) a qualquer momento
 
 ## Abrir e rodar o projeto
 
