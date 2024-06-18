@@ -24,7 +24,8 @@ Programa usado para tratar dados climáticos de um banco de dados e gerar modelo
 
 Os dados foram obtidos no site do Instituto Nacional de Metereologia, são correspondentes ao ano de 2023 e apresentam dados de 567 estações metereológicas em cidades ao longo do Brasil. O download dos dados é feito no site do INMET no formato de uma planilha do Excel. 
 
-![(Inglés) (1)](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/e4bfada5-cc86-43cc-ac3b-d90fb758d97f) 
+![Esquema Chuva de Dados](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/54fc6137-ba47-4637-99fb-683d5ebdd118)
+
 
 ## Recursos Utilizados
 
