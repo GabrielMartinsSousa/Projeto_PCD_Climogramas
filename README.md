@@ -64,19 +64,19 @@ O projeto Data Céu está disponível no GitHub, e pode ser baixado a qualquer m
 <p align="justify">
 O trabalho contou com diversos colaboradores, o principal deles foi o Professor Doutor Leandro Nascimento Lemos, que guiou e avaliou o projeto, além dele, o estagiário Duanny Silva Onório foi de grande ajuda em dúvidas e problemas na produção do código. A seguir, os perfis dos belíssimos computeiros que desenvolveram este projeto.
 
- [<img src="https://avatars.githubusercontent.com/u/172425251?s=400&u=ff5b960a4e2477b83fc50760e6306b118f3e95c5&v=4" width=115><br><sub>Rachels Bachels do Balacubaco</sub>](https://github.com/RaquelGVianna) 
+ [<img src="https://avatars.githubusercontent.com/u/172425251?s=400&u=ff5b960a4e2477b83fc50760e6306b118f3e95c5&v=4" width=115><br><sub>Raquel de Godoy Vianna</sub>](https://github.com/RaquelGVianna) 
  
-Exímia computeira e adepta do Coquettismo, além de pianista e sulista
+Estudante da Ilum e Pianista
 
- [<img src="" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/Romulo177)
+ [<img src="" width=115><br><sub>Rômulo Emanuel Rabelo Cruz</sub>](https://github.com/Romulo177)
  
- Experiente profissional da Computaria e grande produtor de cuscuz
+ Estudante da Ilum e Jogador de Xadrez
  
- [<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width=115><br><sub>Gab do Cupuaçu</sub>](https://github.com/GabrielMartinsSousa)
+ [<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width=115><br><sub>Gabriel Martins Sousa</sub>](https://github.com/GabrielMartinsSousa)
  
- Extraordinário servidor de café e jogador de xadrez de 4
+ Estudante da Ilum e Jogador amador de Videogames
 
-  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Manuel de Atlântida</sub>](https://github.com/crovim)
+  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Emanuel Piveta Pozzobon</sub>](https://github.com/crovim)
 
-  Maior expoente de Santa Maria e calvo em transição
+ Estudante da Ilum e Calistenista
 
