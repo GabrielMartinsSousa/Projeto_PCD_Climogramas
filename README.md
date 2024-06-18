@@ -1,5 +1,4 @@
-
-<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/4fb6f893-5c7e-4d5c-a425-e912be84a982" alt="Texto Alternativo" width="800">
+<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/6c7eeaea-a3c9-43d9-b247-9799c66bad2f" alt="Texto Alternativo" width="800">
 
 Programa usado para tratar dados climáticos de um banco de dados e gerar modelos gráficos para análise
 ### Índice 
@@ -64,11 +63,11 @@ O projeto Data Céu está disponível no GitHub, e pode ser baixado a qualquer m
 <p align="justify">
 O trabalho contou com diversos colaboradores, o principal deles foi o Professor Doutor Leandro Nascimento Lemos, que guiou e avaliou o projeto, além dele, o estagiário Duanny Silva Onório foi de grande ajuda em dúvidas e problemas na produção do código. A seguir, os perfis dos belíssimos computeiros que desenvolveram este projeto.
 
- [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Rachels Bachels do Balacubaco</sub>](https://github.com/camilafernanda) 
+ [<img src="https://avatars.githubusercontent.com/u/172425251?s=400&u=ff5b960a4e2477b83fc50760e6306b118f3e95c5&v=4" width=115><br><sub>Rachels Bachels do Balacubaco</sub>](https://github.com/RaquelGVianna) 
  
 Exímia computeira e adepta do Coquettismo, além de pianista e sulista
 
- [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/crovim)
+ [<img src="" width=115><br><sub>Romuleira Cuscuz Delícia</sub>](https://github.com/Romulo177)
  
  Experiente profissional da Computaria e grande produtor de cuscuz
  
