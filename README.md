@@ -38,6 +38,15 @@ Os dados foram obtidos no site do Instituto Nacional de Metereologia, são corre
 ## Como funciona
 
 <p align="justify">
+Passo a Passo da Utilização do Programa:
+ 
+- Informar qual ano quer analisar
+- Informar o intervalo de tempo que quer analisar
+- Informar a cidade de origem dos dados
+- Informar qual tipo de modelo gráfico quer observar
+  
+O programa primariamente apresenta dados anuais, porém, dentro de um ano, o usuário pode definir um intervalo de tempo para delimitar os dados da maneira que achar melhor. Dependendo do ano pesquisado, algumas cidades ainda não tinham registros, portanto, não é possível analisar esses casos.
+  
 O usuário do Chuva de Dados seleciona a cidade da qual deseja os dados, as variáveis e o período que quer avaliar, o programa retira os dados do banco de dados e retorna ao usuário os gráficos que melhor apresentam os dados solicitados
 
 ## Aplicações
