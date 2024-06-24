@@ -1,19 +1,22 @@
 <img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/6c7eeaea-a3c9-43d9-b247-9799c66bad2f" alt="Texto Alternativo" width="800">
 
 Programa usado para tratar dados climáticos de um banco de dados e gerar modelos gráficos para análise
+
+>:construction: Projeto em construção :construction:
+
 ### Índice 
 
 - [Introdução](#Introdução)
   
 - [Recursos Utilizados](#Recursos-Utilizados)
-
+  
+- [Abrir e Rodar o Projeto](#abrir-e-rodar-o-projeto)
+  
 - [Como Funciona](#Como-funciona)
 
 - [Aplicações](#aplicações)
 
 - [Acesso ao Projeto](#acesso-ao-projeto)
-
-- [Abrir e Rodar o Projeto](#abrir-e-rodar-o-projeto)
 
 - [Desenvolvedores e colaboradores](#desenvolvedores-e-colaboradores)
 
@@ -22,7 +25,7 @@ Programa usado para tratar dados climáticos de um banco de dados e gerar modelo
 
  Este é um projeto em ciência de dados para disciplina Prática em Ciência de Dados do curso de Bacharelado em Ciência e Tecnologia da [Ilum Escola de Ciência](https://ilum.cnpem.br). Devido aos recentes acontecimentos climáticos, tanto no Brasil quanto no exterior, nós, alunos da Ilum, decidimos criar um programa que permite analisar dados meteorológicos de diversas cidades do Brasil e gerar gráficos de diferentes tipos dependendo dos parâmetros analisados, como temperatura, pluviosidade, incidência de radiação solar, umidade relativa do ar e direção e intensidade do vento. A partir desses dados, é possível observar os padrões e tentar prever como o clima se comportará
 
-Os dados foram obtidos no site do Instituto Nacional de Metereologia, são correspondentes ao ano de 2023 e apresentam dados de 567 estações metereológicas em cidades ao longo do Brasil. O download dos dados é feito no [site do INMET](https://portal.inmet.gov.br/) no formato de uma planilha do Excel. 
+Os dados foram obtidos no site do Instituto Nacional de Metereologia, são correspondentes aos anos de 2001 até 2023 e, no último ano, apresentam dados de 567 estações metereológicas em cidades ao longo do Brasil. O download dos dados é feito no [site do INMET](https://portal.inmet.gov.br/) no formato de uma planilha do Excel. 
 
 ![Esquema Chuva de Dados](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/54fc6137-ba47-4637-99fb-683d5ebdd118)
 
@@ -34,6 +37,15 @@ Os dados foram obtidos no site do Instituto Nacional de Metereologia, são corre
 <img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/eafee038-e9ba-489b-b29d-f8f376f8fc6b" alt="Texto Alternativo" width="90">
 
 <img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/04fa28d7-75ce-4236-bfc7-ec0451a4ed48" alt="Texto Alternativo" width="100">
+
+## Abrir e rodar o projeto
+
+<p align="justify">
+
+- O programa deve ser aberto em uma plataforma de compilação e rodagem de Python. 
+- Além disso, é necessário baixar os dados metereológicos de 2023 no site do INMET, o que pode ser feito na seção "Dados Metereológicos".
+- Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código.
+- E "Voilá", rapidamente você obtêm os gráficos desejados.
 
 ## Como funciona
 
@@ -52,20 +64,11 @@ O usuário do Chuva de Dados seleciona a cidade da qual deseja os dados, as vari
 ## Aplicações
 
 <p align="justify">
-Os modelos gráficos fornecidos com o Data Céu são extremamente úteis para a análise dos eventos climáticos e como se preparar caso haja uma tendência de alta ou baixa temperatura, ou até alto índice de pluviosidade e intensidade dos ventos
+Os modelos gráficos fornecidos com o Chuva de Dados são extremamente úteis para a análise dos eventos climáticos e como se preparar caso haja uma tendência de alta ou baixa temperatura, ou até alto índice de pluviosidade e intensidade dos ventos
 
 ## Acesso ao Projeto
 
 O projeto Chuva de Dados está disponível no GitHub, e pode ser [baixado aqui](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas) a qualquer momento
-
-## Abrir e rodar o projeto
-
-<p align="justify">
-
-- O programa deve ser aberto em uma plataforma de compilação e rodagem de Python. 
-- Além disso, é necessário baixar os dados metereológicos de 2023 no site do INMET, o que pode ser feito na seção "Dados Metereológicos".
-- Com tudo isso, o usuário deve inserir os dados necessários para a devida execução do código.
-- E "Voilá", rapidamente você obtêm os gráficos desejados.
 
 ## Desenvolvedores e Colaboradores
 
