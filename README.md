@@ -23,7 +23,7 @@ Programa usado para tratar dados climáticos de um banco de dados e gerar modelo
 ## Introdução 
 
 
- Este é um projeto em ciência de dados para disciplina Prática em Ciência de Dados do curso de Bacharelado em Ciência e Tecnologia da [Ilum Escola de Ciência](https://ilum.cnpem.br). Devido aos recentes acontecimentos climáticos, tanto no Brasil quanto no exterior, nós, alunos da Ilum, decidimos criar um programa que permite analisar dados meteorológicos de diversas cidades do Brasil e gerar gráficos de diferentes tipos dependendo dos parâmetros analisados, como temperatura, pluviosidade, incidência de radiação solar, umidade relativa do ar e direção e intensidade do vento. A partir desses dados, é possível observar os padrões e tentar prever como o clima se comportará
+ Este é um projeto em ciência de dados para disciplina Prática em Ciência de Dados do curso de Bacharelado em Ciência e Tecnologia da [Ilum Escola de Ciência](https://ilum.cnpem.br). Devido aos recentes acontecimentos climáticos, tanto no Brasil quanto no exterior, nós, alunos da Ilum, decidimos criar um programa que permite analisar dados meteorológicos de diversas cidades do Brasil e gerar gráficos de diferentes tipos dependendo dos parâmetros analisados, como temperatura, pluviosidade, incidência de radiação solar, umidade relativa do ar e direção e intensidade do vento. A partir desses dados, é possível observar os padrões e tentar prever como o clima se comportará.
 
 Os dados foram obtidos no site do Instituto Nacional de Metereologia, são correspondentes aos anos de 2001 até 2023 e, no último ano, apresentam dados de 567 estações metereológicas em cidades ao longo do Brasil. O download dos dados é feito no [site do INMET](https://portal.inmet.gov.br/) no formato de uma planilha do Excel. 
 
@@ -37,6 +37,18 @@ Os dados foram obtidos no site do Instituto Nacional de Metereologia, são corre
 <img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/eafee038-e9ba-489b-b29d-f8f376f8fc6b" alt="Texto Alternativo" width="90">
 
 <img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/04fa28d7-75ce-4236-bfc7-ec0451a4ed48" alt="Texto Alternativo" width="100">
+
+<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/d49d7621-add3-49af-aa70-92693cf061f8" alt="Texto Alternativo" width="164">
+
+<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/025152bd-de97-420c-8a96-bf4d675bea31" alt="Texto Alternativo" width="101">
+
+<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/dd5953d4-0b62-467b-85ed-9a992d6c1511" alt="Texto Alternativo" width="101">
+
+<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/fad65bea-c9cf-4c61-92cc-5622b4521544" alt="Texto Alternativo" width="101">
+
+<img src="https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas/assets/172425313/314dcd00-784b-4f40-b361-a46329aad30e" alt="Texto Alternativo" width="145">
+
+Diversas bibliotecas foram utilizadas ao longo do código, além das citadas acima, utilizamos também a biblioteca glob, para trabalhar melhor com os dados e a biblioteca windrose, para plotar as rosas do ventos.
 
 ## Abrir e rodar o projeto
 
@@ -64,11 +76,11 @@ O usuário do Chuva de Dados seleciona a cidade da qual deseja os dados, as vari
 ## Aplicações
 
 <p align="justify">
-Os modelos gráficos fornecidos com o Chuva de Dados são extremamente úteis para a análise dos eventos climáticos e como se preparar caso haja uma tendência de alta ou baixa temperatura, ou até alto índice de pluviosidade e intensidade dos ventos
+Os modelos gráficos fornecidos com o Chuva de Dados são extremamente úteis para a análise dos eventos climáticos e como se preparar caso haja uma tendência de alta ou baixa temperatura, ou até alto índice de pluviosidade e intensidade dos ventos.
 
 ## Acesso ao Projeto
 
-O projeto Chuva de Dados está disponível no GitHub, e pode ser [baixado aqui](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas) a qualquer momento
+O projeto Chuva de Dados está disponível no GitHub, e pode ser [baixado aqui](https://github.com/GabrielMartinsSousa/Projeto_PCD_Climogramas) a qualquer momento.
 
 ## Desenvolvedores e Colaboradores
 
