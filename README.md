@@ -91,7 +91,7 @@ O trabalho contou com diversos colaboradores, o principal deles foi o Professor 
  
 Estudante da Ilum e Pianista
 
- [<img src="" width=115><br><sub>Rômulo Emanuel Rabelo Cruz</sub>](https://github.com/Romulo177)
+ [<img src="https://avatars.githubusercontent.com/u/111528424?s=400&u=8c317c604538613e79e61403fce168b8a8a6999d&v=4" width=115><br><sub>Rômulo Emanuel Rabelo Cruz</sub>](https://github.com/Romulo177)
  
  Estudante da Ilum e Jogador de Xadrez
  
@@ -99,7 +99,7 @@ Estudante da Ilum e Pianista
  
  Estudante da Ilum e Jogador amador de Videogames
 
-  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Emanuel Piveta Pozzobon</sub>](https://github.com/crovim)
+  [<img src="https://avatars.githubusercontent.com/u/65614037?s=400&u=d69dce8c32aaee3c7a1154cf466aec200126330e&v=4" width=115><br><sub>Emanuel Piveta Pozzobon</sub>](https://github.com/crovim)
 
  Estudante da Ilum e Calistenista
 
