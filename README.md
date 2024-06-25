@@ -99,7 +99,8 @@ Estudante da Ilum e Pianista
  
  Estudante da Ilum e Jogador amador de Videogames
 
-  [<img src="https://avatars.githubusercontent.com/u/65614037?s=400&u=d69dce8c32aaee3c7a1154cf466aec200126330e&v=4" width=115><br><sub>Emanuel Piveta Pozzobon</sub>](https://github.com/crovim)
+  [<img src="https://avatars.githubusercontent.com/u/65614037?s=400&u=d69dce8c32aaee3c7a1154cf466aec200126330e&v=4" width=115><br><sub>Emanuel Piveta Pozzobon</sub>](https://github.com/empipo)
+  
 
  Estudante da Ilum e Calistenista
 
